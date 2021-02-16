@@ -6,6 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello World!");
 		System.out.println("New line.");
+		System.out.println("Thomas geheime Änderung");
 
 	}
 
